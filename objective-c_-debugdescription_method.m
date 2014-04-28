@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: debugDescription
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 557F82C1-A475-4E53-8683-9225C9B7575F
+// IDECodeSnippetIdentifier: B51395A9-F1BC-426E-AF6F-0BDE6F808C02
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 - (NSString *)debugDescription
 {
 return [NSString stringWithFormat:@"<%@: %p> <#additional format string#>", [self class], self, <#additional arguments#>];
